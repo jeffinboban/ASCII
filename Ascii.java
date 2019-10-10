@@ -1,0 +1,207 @@
+class Ascii
+{
+public static void main(String []args)
+{
+ 
+ char a='0';
+ char b='1';
+ char c='2';
+ char d='3';
+char e='4';
+ char f='5';
+char g='6';
+ char h='7';
+ char i='8';
+char j='9';
+ System.out.println((int)a);
+System.out.println((int)b);
+System.out.println((int)c);
+System.out.println((int)d);
+System.out.println((int)e);
+System.out.println((int)f);
+System.out.println((int)g);
+System.out.println((int)h);
+System.out.println((int)i);
+System.out.println((int)j);
+char ab='a';
+ char bc='b';
+ char cd='c';
+ char de='d';
+char ef='e';
+ char fg='f';
+char gh='g';
+ char hi='h';
+ char ij='i';
+char jk='j';
+char k='k';
+ char l='l';
+ char m='m';
+ char n='n';
+char o='o';
+ char p='p';
+char q='q';
+ char r='r';
+ char s='s';
+char t='t';
+char u='u';
+char v='v';
+char w='w';
+ char x='x';
+ char y='y';
+ char z='z';
+System.out.println((int)ab);
+System.out.println((int)bc);
+System.out.println((int)cd);
+System.out.println((int)de);
+System.out.println((int)ef);
+System.out.println((int)fg);
+System.out.println((int)gh);
+System.out.println((int)hi);
+System.out.println((int)ij);
+System.out.println((int)jk);
+System.out.println((int)k);
+System.out.println((int)l);
+System.out.println((int)m);
+System.out.println((int)n);
+System.out.println((int)o);
+System.out.println((int)p);
+System.out.println((int)q);
+System.out.println((int)r);
+System.out.println((int)s);
+System.out.println((int)t);
+System.out.println((int)u);
+System.out.println((int)v);
+System.out.println((int)w);
+System.out.println((int)x);
+System.out.println((int)y);
+System.out.println((int)z);
+
+char abc='A';
+ char bcd='B';
+ char cde='C';
+ char def='D';
+char efg='E';
+ char fgh='F';
+char ghi='G';
+ char hij='H';
+ char ijk='I';
+char jkl='J';
+char kl='K';
+ char lm='L';
+ char mn='M';
+ char no='N';
+char op='O';
+ char pq='P';
+char qr='Q';
+ char rs='R';
+ char st='S';
+char tu='T';
+char uv='U';
+char vw='V';
+char wx='W';
+ char xy='X';
+ char yz='Y';
+ char za='Z';
+
+System.out.println((int)abc);
+System.out.println((int)bcd);
+System.out.println((int)cde);
+System.out.println((int)def);
+System.out.println((int)efg);
+System.out.println((int)fgh);
+System.out.println((int)ghi);
+System.out.println((int)hij);
+System.out.println((int)ijk);
+System.out.println((int)jkl);
+System.out.println((int)kl);
+System.out.println((int)lm);
+System.out.println((int)mn);
+System.out.println((int)no);
+System.out.println((int)op);
+System.out.println((int)pq);
+System.out.println((int)qr);
+System.out.println((int)rs);
+System.out.println((int)st);
+System.out.println((int)tu);
+System.out.println((int)uv);
+System.out.println((int)vw);
+System.out.println((int)wx);
+System.out.println((int)xy);
+System.out.println((int)yz);
+System.out.println((int)za);
+
+
+
+
+char abcd='`';
+ char bcde='~';
+ char cdef='!';
+ char defg='@';
+char efgh='#';
+ char fghi='$';
+char ghij='%';
+ char hijk='^';
+ char ijkl='&';
+char jklm='*';
+char kln='(';
+ char lmo=')';
+ char mnp='_';
+ char noq='-';
+char opr='+';
+ char pqs='=';
+char qrt='{';
+ char rsu='}';
+ char stv='[';
+char tuw=']';
+//char uvx='\';
+char vwy='|';
+char wxz=';';
+ char xya=':';
+ char yzb='"';
+ //char zac=''';
+
+char abcz='<';
+ char bcdy=',';
+ char cdex='>';
+ char defw='.';
+char efgu='?';
+ char fghv='/';
+
+System.out.println((int)abcd);
+System.out.println((int)bcde);
+System.out.println((int)cdef);
+System.out.println((int)defg);
+System.out.println((int)efgh);
+System.out.println((int)fghi);
+System.out.println((int)ghij);
+System.out.println((int)hijk);
+System.out.println((int)ijkl);
+System.out.println((int)jklm);
+System.out.println((int)kln);
+System.out.println((int)lmo);
+System.out.println((int)mnp);
+System.out.println((int)noq);
+System.out.println((int)opr);
+System.out.println((int)pqs);
+System.out.println((int)qrt);
+System.out.println((int)rsu);
+System.out.println((int)stv);
+System.out.println((int)tuw);
+//System.out.println((int)uvx);
+System.out.println((int)vwy);
+System.out.println((int)wxz);
+System.out.println((int)xya);
+System.out.println((int)yzb);
+//System.out.println((int)zac);
+System.out.println((int)abcz);
+System.out.println((int)bcdy);
+System.out.println((int)cdex);
+System.out.println((int)defw);
+System.out.println((int)efgu);
+System.out.println((int)fghv);
+
+
+
+
+}
+}
